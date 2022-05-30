@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    text-align: center;
+    color: greenyellow;
+}
+
+body {
+    background-color: rgb(22, 83, 107);
+}
+
+hr {
+    color: aquamarine;
+}
+
+.lists {
+    color: aliceblue;
+}
+
+.table {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+#t33 {
+    font-size: 30px;
+}
+
+th,
+td {
+    padding: 17px;
+    text-align: justify;
+}
+
+table {
+    font-style: italic;
+    font-family: monospace;
+    border-width: 5px;
+    border-color: blue;
+}
+
+.mul {
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+}
