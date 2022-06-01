@@ -1,65 +1,65 @@
-        .headtitle {
-            color: rgb(180, 240, 16);
-            font-size: 70px;
-            text-decoration: wavy underline;
-            text-shadow: 12px;
-            text-align: center;
-            font-family: cursive;
-            font-style: inherit italic;
-            font-weight: lighter;
-        }
-        
-        body {
-            background-color: black;
-            color: white;
-        }
-        
-        h1 {
-            color: rgb(13, 142, 228);
-        }
-        
-        p {
-            color: rgb(23, 235, 69);
-            font-size: 20px;
-            font-weight: bolder;
-            font-family: 'Courier New', Courier, monospace;
-            font-style: oblique;
-        }
-        
-        hr {
-            color: rgb(255, 255, 255);
-            border: 2px dashed;
-        }
-        
-        h3 {
-            color: rgb(250, 0, 187);
-        }
-        
-        .tips {
-            size: 25px;
-            font-weight: bold;
-            font-style: oblique;
-            padding: 20px;
-        }
-        
-        #tip {
-            text-align: center;
-            text-decoration: dashed underline greenyellow;
-            font-size: 30px;
-        }
-        
-        .element {
-            padding: 12px;
-            text-align: left;
-        }
-        
-        .sample {
-            padding-top: 30px;
-            padding-bottom: 30px;
-            text-align: center;
-        }
-        
-        .image {
-            padding-bottom: 20px;
-            align-self: center;
-        }
+.headtitle {
+    color: rgb(180, 240, 16);
+    font-size: 70px;
+    text-decoration: wavy underline;
+    text-shadow: 12px;
+    text-align: center;
+    font-family: cursive;
+    font-style: inherit italic;
+    font-weight: lighter;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: rgb(13, 142, 228);
+}
+
+p {
+    color: rgb(23, 235, 69);
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+
+hr {
+    color: rgb(255, 255, 255);
+    border: 2px dashed;
+}
+
+h3 {
+    color: rgb(250, 0, 187);
+}
+
+.tips {
+    size: 25px;
+    font-weight: bold;
+    font-style: oblique;
+    padding: 20px;
+}
+
+#tip {
+    text-align: center;
+    text-decoration: dashed underline greenyellow;
+    font-size: 30px;
+}
+
+.element {
+    padding: 12px;
+    text-align: left;
+}
+
+.sample {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.image {
+    padding-bottom: 20px;
+    align-self: center;
+}
