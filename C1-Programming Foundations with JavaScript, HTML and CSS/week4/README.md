@@ -1,0 +1,7 @@
+# Solutions for Quiz - Review of HTML, CSS, and JavaScript
+
+![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week4/Assignment%20-%20Review%20of%20HTML%2C%20CSS%2C%20and%20JavaScript/ss1.png)
+![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week4/Assignment%20-%20Review%20of%20HTML%2C%20CSS%2C%20and%20JavaScript/ss2.png)
+![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week4/Assignment%20-%20Review%20of%20HTML%2C%20CSS%2C%20and%20JavaScript/ss3.png)
+![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week4/Assignment%20-%20Review%20of%20HTML%2C%20CSS%2C%20and%20JavaScript/ss4.png)
+![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week4/Assignment%20-%20Review%20of%20HTML%2C%20CSS%2C%20and%20JavaScript/ss5.png)
