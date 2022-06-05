@@ -1,0 +1,9 @@
+h1 {
+    color: dimgray;
+    font-family: arial;
+}
+
+canvas {
+    border: 1px solid #ccc;
+    max-width: 100%;
+}
