@@ -7,18 +7,20 @@
     <title> Button and Div</title>
 </head>
 
-<body>
+<body id="bod">
     <h1 class="h1">
-        <u>Button with Div Practice</u></h1>
+        <u>  Button with Div Practice</u></h1>
     <div id="d1">
         This is Div 1
         <br>
         <input id='b1' type="button" value="alert me" onclick="alertme()">
     </div>
     <div id="d2">
-        This is Div 2
-        <br> This slider does nothing
-        <br> <input type="range" name="theme" id="thr" max="100" min="0">
+        Hover over the box to change theme
+        <br>
+        <div id="theme">
+            <input type="checkbox" name="themebox" id="box" onclick="changetheme()" onmouseenter="changethemelight()" onmouseleave="changethemedark()">
+        </div>
 </body>
 
 </html>
