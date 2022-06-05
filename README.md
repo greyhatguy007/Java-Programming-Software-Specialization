@@ -18,3 +18,6 @@ Contains Solutions For [Java Programming and Software Engineering Fundamentals S
   - [Assignment - Buttons and Interactions](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C1-Programming%20Foundations%20with%20JavaScript,%20HTML%20and%20CSS/week3/Assignment%20-%20Buttons%20and%20Interaction)
   - [Assignment - Interactive Web Pages](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week3/Assignment%20-%20Interactive%20Web%20Pages)
   - [Assignment - Event-Driven Programming](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week3/Assignment%20-%20Event-Driven%20Programming)
+
+- [Week 4](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week4/Assignment%20-%20Review%20of%20HTML%2C%20CSS%2C%20and%20JavaScript)
+  - [Assignment - Review of HTML, CSS, and JavaScript](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week4/Assignment%20-%20Review%20of%20HTML%2C%20CSS%2C%20and%20JavaScript)
