@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Input and Events</title>
+    <script src="/Java-Programming-Software-Specialization/C1-Programming Foundations with JavaScript, HTML and CSS/week3/js/inputandevents.js"></script>
+    <link rel="stylesheet" href="/Java-Programming-Software-Specialization/C1-Programming Foundations with JavaScript, HTML and CSS/week3/css/inputandevents.css">
+</head>
+
+<body>
+    <h1 id="heading">Color Chooser</h1>
+    <canvas id="c1" class="orangeback"></canvas>
+    <p>
+        <input type="button" value="Make Blue" class="button" onclick="doBlue()">
+        <br>
+        <input type="color" id="clr" onchange="doColor()" value="#FF0000"> <input type="range" name="slider" id="slr" min="0" max="100" onchange="doSquare()">
+    </p>
+</body>
+
+</html>
