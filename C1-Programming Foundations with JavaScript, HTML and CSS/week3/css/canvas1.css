@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+#heading {
+    color: white;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: aquamarine;
+    text-decoration-thickness: 3px;
+}
+
+canvas {
+    width: 200px;
+    height: 200px;
+    margin: 20px white solid;
+    border: 1px solid lightgray;
+}
+
+.nothing {
+    background-color: unset;
+}
+
+.blueblack {
+    background-color: blue;
+}
+
+.orangeblack {
+    background-color: orangered;
+}
