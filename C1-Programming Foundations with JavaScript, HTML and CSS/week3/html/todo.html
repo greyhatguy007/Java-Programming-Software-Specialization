@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="/Java-Programming-Software-Specialization/C1-Programming Foundations with JavaScript, HTML and CSS/week3/js/todo.js"></script>
+    <link rel="stylesheet" href="/Java-Programming-Software-Specialization/C1-Programming Foundations with JavaScript, HTML and CSS/week3/css/todo.css">
+    <title> Button and Div</title>
+</head>
+
+<body>
+
+    <h1 id="myHeader">TO DO List</h1>
+
+    <!-- STEPs 1 and 2 below here  -->
+    <input type="button" value="Add" id="addButton" onclick="addTask()">
+    <input type="text" placeholder="enter task..." id="input">
+
+
+    <hr>
+
+    <ul id="tasks">
+        <li>
+            <input type="button" class="done" onclick="markDone(this.parentNode)" value="&#x2713;" />
+            <input type="button" class="remove" onclick="remove(this.parentNode)" value="&#x2715;" /> make todo list
+        </li>
+
+    </ul>
+    <hr>
+    <!-- STEPs 8 and 9 below here  -->
+    <div id="divabout"><input type="button" value="About" id="aboutbtn" onclick="doAbout()"></div>
+    <br>
+    <!-- STEP 13 below here  -->
+    <input type="button" value="Clear" id="clearbtn" onclick="clearAbout()">
+
+
+
+
+
+</html>
