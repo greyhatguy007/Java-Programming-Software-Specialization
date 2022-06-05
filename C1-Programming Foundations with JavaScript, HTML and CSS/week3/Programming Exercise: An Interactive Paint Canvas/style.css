@@ -1,0 +1,15 @@
+body {
+    background-color: whitesmoke;
+}
+
+#heading {
+    text-align: center;
+    size: 35px;
+    color: rgb(0, 0, 0);
+    font-style: oblique;
+    font-family: monospace;
+}
+
+canvas {
+    border: 1px solid lightgray;
+}
