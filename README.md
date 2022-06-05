@@ -1,4 +1,4 @@
-# Java-Programming-Software-Specialization
+# Java Programming Software Specialization
 
 <b> Contains Solutions For [Java Programming and Software Engineering Fundamentals Specialization ](https://www.coursera.org/specializations/java-programming) </b>
 
