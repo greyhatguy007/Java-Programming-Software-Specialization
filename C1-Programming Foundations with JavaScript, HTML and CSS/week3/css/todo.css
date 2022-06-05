@@ -1,76 +1,124 @@
-    body {
-        background-color: aqua;
-    }
-    /* remove indentation of list items */
-    
-    ul {
-        padding-left: 0;
-    }
-    /* remove traditional bullet from front of list items */
-    /* Step 3 below here */
-    
-    li {
-        list-style-type: none;
-        background-color: #eee;
-        border: 1px solid #c3c3c3;
-        padding: 10px 0px 10px 5px;
-        font-size: 20px;
-    }
-    /* Step 5 below here */
-    
-    .done {
-        background-color: green;
-        border-radius: 10px;
-    }
-    
-    .remove {
-        background-color: red;
-        border-radius: 10px;
-    }
-    /* mark task as finished */
-    /* Step 6 below here */
-    
-    li.finished {
-        color: white;
-        background-color: grey;
-        text-decoration: line-through;
-    }
-    
-    input[type="text"] {
-        font-size: 18px;
-        width: 94%;
-        padding: 10px;
-    }
-    
-    input[type="button"] {
-        font-size: 1.2em;
-        margin: -6px 4px 0px 0px;
-    }
-    
-    #addButton {
-        padding: 10px;
-    }
-    /* Step 10 below here */
-    
-    .yellowbackground {
-        background-color: rgb(16, 0, 245);
-    }
-    /* Step 12 below here */
-    
-    #divabout {
-        margin: 25px green;
-        width: 300px;
-        font-size: 20px;
-    }
-    
-    #aboutbtn {
-        color: rgb(0, 132, 255);
-        background-color: rgb(218, 247, 55);
-        border: 30px blue;
-    }
-    
-    #clearbtn {
-        color: white;
-        background-color: rgb(235, 14, 14);
-        border: 30px blue;
-    }
+body {
+    background-color: aqua;
+}
+
+
+/* remove indentation of list items */
+
+ul {
+    padding-left: 0;
+}
+
+
+/* remove traditional bullet from front of list items */
+
+
+/* Step 3 below here */
+
+li {
+    list-style-type: none;
+    background-color: #eee;
+    border: 1px solid #c3c3c3;
+    padding: 10px 0px 10px 5px;
+    font-size: 20px;
+}
+
+
+/* Step 5 below here */
+
+#myHeader {
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+    text-decoration: wavy blue;
+    text-decoration-line: underline;
+}
+
+.done {
+    background-color: green;
+    border-radius: 10px;
+}
+
+.remove {
+    background-color: red;
+    border-radius: 10px;
+}
+
+.important {
+    background-color: lightblue;
+}
+
+.notimportant {
+    background-color: white;
+}
+
+
+/* mark task as finished */
+
+
+/* Step 6 below here */
+
+#input {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    border-radius: 50px;
+    display: inline-flex;
+}
+
+.finished {
+    color: white;
+    background-color: grey;
+    text-decoration: line-through;
+}
+
+input[type="text"] {
+    font-size: 18px;
+    width: 94%;
+    padding: 10px;
+}
+
+input[type="button"] {
+    font-size: 1.2em;
+    margin: -6px 4px 0px 0px;
+}
+
+#addButton {
+    display: inline-block;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 4, 240);
+    font-weight: bold;
+}
+
+#inputs {
+    display: inline-block;
+}
+
+
+/* Step 10 below here */
+
+.yellowbackground {
+    background-color: rgb(16, 0, 245);
+}
+
+
+/* Step 12 below here */
+
+#divabout {
+    margin: 25px green;
+    width: 300px;
+    font-size: 20px;
+}
+
+#aboutbtn {
+    color: rgb(0, 132, 255);
+    background-color: rgb(218, 247, 55);
+    border: 30px blue;
+}
+
+#clearbtn {
+    color: white;
+    background-color: rgb(235, 14, 14);
+    border: 30px blue;
+}

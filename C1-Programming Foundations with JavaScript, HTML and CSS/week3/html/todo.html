@@ -9,10 +9,14 @@
 
 <body>
 
-    <h1 id="myHeader">TO DO List</h1>
+    <h1 id="myHeader"> TO DO List
+    </h1>
 
     <!-- STEPs 1 and 2 below here  -->
-    <input type="button" value="Add" id="addButton" onclick="addTask()">
+    <div id="inputs">
+        <input type="button" value="Add" id="addButton" onclick="addTask()">
+
+    </div>
     <input type="text" placeholder="enter task..." id="input">
 
 
@@ -21,7 +25,8 @@
     <ul id="tasks">
         <li>
             <input type="button" class="done" onclick="markDone(this.parentNode)" value="&#x2713;" />
-            <input type="button" class="remove" onclick="remove(this.parentNode)" value="&#x2715;" /> make todo list
+            <input type="button" class="remove" onclick="remove(this.parentNode)" value="&#x2715;" />
+            <input type="button" value="!" class="notimportant" onclick="important(this.parentNode)"> make todo list
         </li>
 
     </ul>
