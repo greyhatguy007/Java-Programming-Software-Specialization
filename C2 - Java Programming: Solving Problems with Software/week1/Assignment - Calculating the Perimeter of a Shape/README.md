@@ -1,0 +1,6 @@
+# Solutions For Assignment - Assignment - Calculating the Perimeter of a Shape
+
+![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week1/Assignment%20-%20Calculating%20the%20Perimeter%20of%20a%20Shape/ss1.png)
+![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week1/Assignment%20-%20Calculating%20the%20Perimeter%20of%20a%20Shape/ss2.png)
+![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week1/Assignment%20-%20Calculating%20the%20Perimeter%20of%20a%20Shape/ss3.png)
+![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week1/Assig3ment%20-%20Calculating%20the%20Perimeter%20of%20a%20Shape/ss4.png)
