@@ -23,6 +23,9 @@
   - [Assignment - Review of HTML, CSS, and JavaScript](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week4/Assignment%20-%20Review%20of%20HTML%2C%20CSS%2C%20and%20JavaScript)
   - [Assignment - Steganography](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week4/Assignment%20-%20Steganography)
 
+
+<b> [Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/READ33CLXF4B)</b>
+
 </br> 
 
 ## Course 2 : [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming)
