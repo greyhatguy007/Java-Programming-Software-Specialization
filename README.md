@@ -31,7 +31,7 @@
 ## Course 2 : [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming)
 
 - [<b>Week 1</b>](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week1)
-  - [Assignment - Assignment - Calculating the Perimeter of a Shape](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week1/Assignment%20-%20Calculating%20the%20Perimeter%20of%20a%20Shape)
+  - [Assignment - Assignment - Calculating the Perimeter of a Shape](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week1/perimeter_quiz)
 
 - [<b>Week 2</b>](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week2)
-  - [Assignment - Assignment - Finding a Gene in DNA](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week2/Assignment%20-%20Finding%20a%20Gene%20in%20DNA)
+  - [Assignment - Assignment - Finding a Gene in DNA](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week2/StringsFirstAssignments)
