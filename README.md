@@ -41,7 +41,7 @@
 - [<b>Week 3</b>](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week3)
   - [Quiz - CSV Files and Basic Statistics in Java](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week3/Quiz%20-%20CSV%20Files%20and%20Basic%20Statistics%20in%20Java)
 
-- [<b>Week 3</b>](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week4)
+- [<b>Week 4</b>](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week4)
   - [Quiz - Baby Names](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week4/Quiz%20-%20Baby%20Names)
 
 [Certificate Of Completion](https://coursera.org/share/b438effc6dae9795dba08ff923eda481)
