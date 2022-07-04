@@ -24,11 +24,10 @@
   - [Assignment - Steganography](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week4/Assignment%20-%20Steganography)
 
 
-<b> 
 
-[Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/READ33CLXF4B)</b>
+[Certificate Of Completion](https://www.coursera.org/account/accomplishments/certificate/READ33CLXF4B)</b>
 
-</br> 
+<br/> 
 
 ## Course 2 : [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming)
 
@@ -44,3 +43,5 @@
 
 - [<b>Week 3</b>](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week4)
   - [Quiz - Baby Names](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week4/Quiz%20-%20Baby%20Names)
+
+[Certificate Of Completion](https://coursera.org/share/b438effc6dae9795dba08ff923eda481)
