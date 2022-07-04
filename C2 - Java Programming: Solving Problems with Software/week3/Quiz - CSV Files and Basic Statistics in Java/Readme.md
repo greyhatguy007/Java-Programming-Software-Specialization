@@ -1,3 +1,4 @@
+
 ![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week3/Quiz%20-%20CSV%20Files%20and%20Basic%20Statistics%20in%20Java/ss1.png)
 ![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week3/Quiz%20-%20CSV%20Files%20and%20Basic%20Statistics%20in%20Java/ss2.png)
 ![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week3/Quiz%20-%20CSV%20Files%20and%20Basic%20Statistics%20in%20Java/ss3.png)
