@@ -1,0 +1,2 @@
+![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week2/Quiz%20-%20Strings%20in%20Java/ss1.png)
+![](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week2/Quiz%20-%20Strings%20in%20Java/ss2.png)

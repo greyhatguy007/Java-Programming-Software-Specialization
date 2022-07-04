@@ -24,14 +24,23 @@
   - [Assignment - Steganography](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C1-Programming%20Foundations%20with%20JavaScript%2C%20HTML%20and%20CSS/week4/Assignment%20-%20Steganography)
 
 
-<b> [Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/READ33CLXF4B)</b>
+<b> 
+
+[Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/READ33CLXF4B)</b>
 
 </br> 
 
 ## Course 2 : [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming)
 
 - [<b>Week 1</b>](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week1)
-  - [Assignment - Assignment - Calculating the Perimeter of a Shape](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week1/Assignment%20-%20Calculating%20the%20Perimeter%20of%20a%20Shape)
+  - [Assignment - Calculating the Perimeter of a Shape](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week1/perimeter_quiz)
 
 - [<b>Week 2</b>](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week2)
-  - [Assignment - Assignment - Finding a Gene in DNA](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week2/Assignment%20-%20Finding%20a%20Gene%20in%20DNA)
+  - [Quiz - Strings in Java](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week2/Quiz%20-%20Strings%20in%20Java)
+  - [Quiz - Using StorageResource](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week2/Quiz%20-%20Using%20StorageResource)
+
+- [<b>Week 3</b>](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week3)
+  - [Quiz - CSV Files and Basic Statistics in Java](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week3/Quiz%20-%20CSV%20Files%20and%20Basic%20Statistics%20in%20Java)
+
+- [<b>Week 3</b>](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/tree/main/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week4)
+  - [Quiz - Baby Names](https://github.com/greyhatguy007/Java-Programming-Software-Specialization/blob/123bba7c7d07a63c355c4244335e50c5d4893d77/C2%20-%20Java%20Programming:%20Solving%20Problems%20with%20Software/week4/Quiz%20-%20Baby%20Names)
